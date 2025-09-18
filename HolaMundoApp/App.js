@@ -13,6 +13,8 @@ export default function App() {
   );
 }
 
+//prueba commit
+
 // Define los estilos
 const styles = StyleSheet.create({
   container: {
